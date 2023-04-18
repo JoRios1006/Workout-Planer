@@ -22,12 +22,12 @@ Workout Planner is a command-line application written in Julia to help you manag
 ### How to use:
 
 1. Install Julia programming language if you haven't already: https://julialang.org/downloads/
-2. Clone this repository or download the `main.jl` file
-3. Open a terminal/command prompt and navigate to the directory containing the `main.jl` file
+2. Clone this repository or download the `workout.jl` file
+3. Open a terminal/command prompt and navigate to the directory containing the `workout.jl` file
 4. Run the program using the following command:
 
 ```
-julia main.jl
+julia workout.jl
 ```
 
 5. Follow the on-screen prompts to manage your workout routines.
