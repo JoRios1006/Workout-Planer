@@ -1,0 +1,21 @@
+#+TITLE: Workouts
+## Chest
+- Bench Press
+## Legs
+- Squat
+## Back
+- Deadlift
+## Shoulders
+- Overhead Press
+## Back
+- Bent Over Row
+## Chest
+- Dumbbell Fly
+## Legs
+- Leg Curl
+## Legs
+- Leg Extension
+## Shoulders
+- Dumbbell Shoulder Press
+## Biceps
+- Dumbbell Curl
